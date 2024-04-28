@@ -22,10 +22,10 @@ end
 testing_ecg = ecg(testing_data_indices,1);
 
 %Initialize empty matrices for Training
-mses = zeros(length(lambda_range),length(ecg));
-snr_imp = zeros(length(lambda_range),length(ecg));
-prd = zeros(length(lambda_range),length(ecg));
-den_sigs = cell(length(lambda_range),length(ecg));
+mses = zeros(length(lambda_range),length(training_ecg));
+snr_imp = zeros(length(lambda_range),length(training_ecg));
+prd = zeros(length(lambda_range),length(training_ecg));
+den_sigs = cell(length(lambda_range),length(training_ecg));
 
 %Initialize Variables
 noise_scaling_factor = 0.2; 
