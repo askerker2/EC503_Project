@@ -46,7 +46,7 @@ Moody GB, Muldrow WE, Mark RG. A noise stress test for arrhythmia detectors. Com
 
 ## Supporting Files
 
-##### Code to add Gaussian Noise: 
+### Code to add Gaussian Noise: 
 (Tracey BH, Miller EL. Nonlocal means denoising of ECG signals. IEEE Trans Biomed Eng. 2012;59(9):2383-2386. doi:10.1109/TBME.2012.2208964)
 - lin10.m 
 - createSignalPlusNoise.m 
