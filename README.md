@@ -14,9 +14,9 @@ Within this repository, you will find:
  - Supporting functions and scripts utilized in data preprocessing, algorithm implementation, and result analysis.
 
 ## Dataset
-
-- mitdb_dataset.mat (obtained from https://physionet.org/content/mitdb/1.0.0/)
-  - Moody, George B., et al. The MIT-BIH Noise Stress Test Database. [object Object], 1992. DOI.org (Datacite), https://doi.org/10.13026/C2HS3T.
+([MIT-BIH Dataset](https://www.physionet.org/content/nstdb/1.0.0/)
+- mitdb_dataset.mat 
+  - Moody GB, Muldrow WE, Mark RG. A noise stress test for arrhythmia detectors. Computers in Cardiology 1984; 11:381-384.
 - em_noise.mat
 
 ## Dependencies/Add-On
