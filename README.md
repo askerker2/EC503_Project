@@ -15,8 +15,8 @@ Within this repository, you will find:
 
 ## Dataset
 [MIT-BIH Dataset](https://www.physionet.org/content/nstdb/1.0.0/)
-- mitdb_dataset.mat 
-  - Moody GB, Muldrow WE, Mark RG. A noise stress test for arrhythmia detectors. Computers in Cardiology 1984; 11:381-384.
+Moody GB, Muldrow WE, Mark RG. A noise stress test for arrhythmia detectors. Computers in Cardiology 1984; 11:381-384.
+- mitdb_dataset.mat  
 - em_noise.mat
 
 ## Dependencies/Add-On
